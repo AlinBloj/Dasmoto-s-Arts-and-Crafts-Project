@@ -1,0 +1,95 @@
+body {
+    background-image: url(https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg?_gl=1*1tjs19m*_ga*MDA2NTM0MzA5Mi4xNjk5MjYwNjcz*_ga_3LRZM6TM9L*MTcwNjg2MzcxNS40MS4xLjE3MDY4NjUwMjkuMC4wLjA.);
+    max-width: 800px;
+    color: aliceblue;
+    box-sizing: border-box;
+    margin: 0 auto;
+}
+
+nav {
+    background-color: rgb(17, 16, 16, 0.3);
+}
+
+nav ul {
+    list-style: none;
+    padding-left: 0px;
+    margin-top: 0;
+}
+
+nav li {
+    display: inline-block;
+    width: 10%;
+    font-size: 20px;
+    text-align: center;
+    padding: 20px 10px;
+}
+
+nav li a {
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+nav li:hover {
+    background-color: rgb(23, 19, 18, 0.5);
+}
+
+#green {
+    background-image: url(https://content.codecademy.com/courses/freelance-1/unit-2/hacksaw.jpeg?_gl=1*a2hota*_ga*MDA2NTM0MzA5Mi4xNjk5MjYwNjcz*_ga_3LRZM6TM9L*MTcwNjg2MzcxNS40MS4xLjE3MDY4NjUwMjkuMC4wLjA.);
+    background-size: 100% 100%;
+}
+
+#pink {
+    background-image: url(https://content.codecademy.com/courses/freelance-1/unit-2/frames.jpeg?_gl=1*e3ivs7*_ga*MDA2NTM0MzA5Mi4xNjk5MjYwNjcz*_ga_3LRZM6TM9L*MTcwNjg2MzcxNS40MS4xLjE3MDY4NjUwMjkuMC4wLjA.);
+    background-size: 100% 100%;
+}
+
+#blue {
+    background-image: url(https://content.codecademy.com/courses/freelance-1/unit-2/finnish.jpeg?_gl=1*xexbxf*_ga*MDA2NTM0MzA5Mi4xNjk5MjYwNjcz*_ga_3LRZM6TM9L*MTcwNjg2MzcxNS40MS4xLjE3MDY4NjUwMjkuMC4wLjA.);
+    background-size: 100% 100%;
+}
+
+h1 {
+    font-size: 150px;
+}
+
+#green h2 {
+    background-color: rgb(73, 229, 73, 0.3);
+}
+
+#pink h2 {
+    background-color: rgb(241, 110, 132, 0.7);
+}
+
+#blue h2 {
+    background-color: rgb(51, 51, 244, 0.5);
+}
+
+h2 {
+    font-size: 50px;
+    font-weight: bolder;
+    letter-spacing: 10px;
+    padding-left: 5%;
+}
+
+h3 {
+    padding-top: 200px;
+    font-size: 30px;
+    letter-spacing: 10px;
+    padding-left: 5%;
+}
+
+p {
+    background-color: rgb(17, 8, 1, 0.2);
+    font-size: 20px;
+    text-align: justify;
+    border: 10px;
+    border-radius: 10px;
+    margin: 0 30px 30px;
+    padding: 5%;
+}
+
+span {
+    font-weight: bolder;
+    color: rgb(100, 100, 233);
+    background-color: rgb(255, 215, 0, 0.7);
+}
